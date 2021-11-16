@@ -205,7 +205,7 @@ img {
   padding-bottom: 32px;
 }
 .contact-header .link:hover,
-.contact-heafer .link:focus {
+.contact-header .link:focus {
   color: var(--accent-color-text);
 }
 
