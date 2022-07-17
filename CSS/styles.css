@@ -73,6 +73,7 @@ img {
 }
 
 /* logo */
+
 .logo {
   color: var(--accent-color-text);
   font-family: Raleway, sans-serif;
@@ -133,6 +134,7 @@ img {
 }
 
 /* page header */
+
 .page-header {
   background-color: var(--white-color-text);
 }
@@ -146,6 +148,7 @@ img {
 }
 
 /* main nav  */
+
 .main-nav {
   display: flex;
   align-items: center;
@@ -153,6 +156,7 @@ img {
 }
 
 /* site navigation */
+
 .site-nav {
   display: flex;
   margin-left: 92px;
