@@ -233,6 +233,16 @@ img {
   margin-bottom: 10px;
 }
 
+.card-header {
+  color: var(--second-color-text);
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+}
+
 /* main section */
 
 .bg-color {
@@ -331,13 +341,16 @@ img {
   border-radius: 0px 0px 4px 4px;
 }
 
-.section-title.name {
-  font-size: 14px;
-  line-height: 1.14;
+.card-header {
+  color: var(--second-color-text);
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-style: normal;
   text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 10px;
 }
+
 .face {
   overflow: visible;
 }
