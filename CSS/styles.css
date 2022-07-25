@@ -266,6 +266,9 @@ img {
 }
 
 /* section benefits */
+.section-benefits {
+  padding-bottom: 0px;
+}
 
 .list-benefits {
   display: flex;
