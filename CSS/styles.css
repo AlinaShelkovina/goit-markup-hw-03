@@ -66,11 +66,6 @@ img {
   padding-right: 15px;
 }
 
-.invisible-text {
-  visibility: hidden;
-  text-align: center;
-}
-
 .visually-hidden {
   position: absolute;
   width: 1px;
